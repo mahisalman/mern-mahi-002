@@ -1,3 +1,10 @@
-body{
-    background-color: aquamarine;
+H1{
+    font-size: 50px;
 }
+
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+.name-highlight{
+    color: orange;
+}  
