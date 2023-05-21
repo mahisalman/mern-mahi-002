@@ -8,3 +8,14 @@ body {
 .name-highlight{
     color: orange;
 }  
+
+.halfdiv{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.halfdiv img{
+    width:90%;
+}
